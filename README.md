@@ -149,11 +149,6 @@ outlook-invoice-automation/
 │   ├── step3_extract_company_invoice.py  # Metadata extraction
 │   ├── step4_pdf_pod.py             # PDF POD extraction
 │   └── config.py                    # Configuration
-├── docs/
-│   └── architecture.md              # System architecture
-├── examples/
-│   └── sample_config.py             # Example configuration
-├── tests/                           # Unit tests
 ├── requirements.txt                 # Dependencies
 ├── README.md                        # This file
 ```
