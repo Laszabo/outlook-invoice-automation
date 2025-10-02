@@ -91,7 +91,7 @@ Cleans HTML tags, special characters, and encoding issues from email body.
 ### 3. Metadata Extraction (`step3_extract_company_invoice.py`)
 Uses regex patterns to extract company name and invoice number from normalized text.
 
-### 4. POD Extraction (`step5_pdf_pod.py`)
+### 4. POD Extraction (`step4_pdf_pod.py`)
 Parses PDF content to locate Point of Delivery identifier.
 
 ### 5. File Routing (`main.py`)
@@ -147,7 +147,7 @@ outlook-invoice-automation/
 │   ├── step1_list_emails.py         # Email retrieval
 │   ├── step2_body_tools.py          # Body normalization
 │   ├── step3_extract_company_invoice.py  # Metadata extraction
-│   ├── step5_pdf_pod.py             # PDF POD extraction
+│   ├── step4_pdf_pod.py             # PDF POD extraction
 │   └── config.py                    # Configuration
 ├── docs/
 │   └── architecture.md              # System architecture
@@ -188,9 +188,9 @@ This tool is designed for legitimate business automation purposes. Ensure you ha
 
 ## 📧 Contact
 
-**Your Name** - [@yourhandle](https://twitter.com/yourhandle) - your.email@example.com
+**Szabo Laszlo** - [@laszabo](https://www.linkedin.com/in/laszabo)
 
-**Project Link**: [https://github.com/yourusername/outlook-invoice-automation](https://github.com/yourusername/outlook-invoice-automation)
+**Project Link**: [https://github.com/laszabo/outlook-invoice-automation](https://github.com/laszabo/outlook-invoice-automation)
 
 ---
 
