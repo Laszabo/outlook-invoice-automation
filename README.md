@@ -44,7 +44,7 @@ The system follows a modular pipeline architecture with clear separation of conc
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/outlook-invoice-automation.git
+git clone https://github.com/laszabo/outlook-invoice-automation.git
 cd outlook-invoice-automation
 
 # Install dependencies
